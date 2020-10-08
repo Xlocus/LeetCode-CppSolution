@@ -21,8 +21,11 @@ public:
         if (lt->val != rt->val)
             return false;
 
-        if (!isSame(lt->left, rt->right)) return false;
-        if (!isSame(lt->right, rt->left)) return false;
+        if (!isSame(lt->left, rt->right))
+            return false;
+        
+        if (!isSame(lt->right, rt->left))
+            return false;
 
         return true;
     }
