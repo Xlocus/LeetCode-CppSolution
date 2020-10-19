@@ -17,6 +17,7 @@
 | 119 | 杨辉三角II | 可使用动态规划优化 |
 | 121* | 买卖股票的最佳时机 | 动态规划法 |
 | 125 | 验证回文串 |
+| 136* | 只出现一次的数字 | [异或运算法](https://leetcode-cn.com/problems/single-number/solution/zhi-chu-xian-yi-ci-de-shu-zi-by-leetcode-solution/) |
 | 167* | 两数之和II |
 | 203 | 移除链表元素 |
 
