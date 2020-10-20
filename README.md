@@ -22,6 +22,7 @@
 | 169 | 多数元素 | 哈希表、[分治法](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/) |
 | 198* | 打家劫舍 | [动态规划](https://leetcode-cn.com/problems/house-robber/solution/da-jia-jie-she-by-leetcode-solution/) |
 | 203 | 移除链表元素 |
+| 206 | 反转链表 |
 
 
 
