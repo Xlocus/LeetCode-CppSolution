@@ -22,7 +22,7 @@
 | 169 | 多数元素 | 哈希表、[分治法](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/) |
 | 198* | 打家劫舍 | [动态规划](https://leetcode-cn.com/problems/house-robber/solution/da-jia-jie-she-by-leetcode-solution/) |
 | 203 | 移除链表元素 |
-| 204* | 计数质数 | 线性筛法、厄拉多塞筛法 |
+| 204* | 计数质数 | 线性筛法、[厄拉多塞筛法](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-bao-li-fa-ji-you-hua-shai-fa-ji-you/) |
 | 206 | 反转链表 |
 
 
