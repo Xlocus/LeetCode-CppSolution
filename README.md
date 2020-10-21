@@ -26,7 +26,8 @@
 | 206 | 反转链表 |
 | 231 | 2的幂 | 递归、[位运算](https://leetcode-cn.com/problems/power-of-two/solution/power-of-two-er-jin-zhi-ji-jian-by-jyd/) |
 | 237 | 删除链表中的节点 | [两两交换](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/) |
-
+| 326 | 3的幂 | 递归、迭代、[对数运算](https://leetcode-cn.com/problems/power-of-three/solution/3de-mi-by-leetcode/)、[正则匹配](https://leetcode-cn.com/problems/power-of-three/solution/nde-mi-xi-lie-4chong-fang-fa-by-realzzg-2-2/) |
+| 342 | 4的幂 |
 
 
 
