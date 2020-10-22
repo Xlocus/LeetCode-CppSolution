@@ -28,6 +28,8 @@
 | 237 | 删除链表中的节点 | [两两交换](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/) |
 | 326 | 3的幂 | 递归、迭代、[对数运算](https://leetcode-cn.com/problems/power-of-three/solution/3de-mi-by-leetcode/)、[正则匹配](https://leetcode-cn.com/problems/power-of-three/solution/nde-mi-xi-lie-4chong-fang-fa-by-realzzg-2-2/) |
 | 342 | 4的幂 | 递归、迭代、对数运算、[位运算、数学方法](https://leetcode-cn.com/problems/power-of-four/solution/4de-mi-by-leetcode/) |
+| 344 | 反转字符串 |
+
 
 
 
