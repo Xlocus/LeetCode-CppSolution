@@ -25,6 +25,7 @@
 | 204* | 计数质数 | 线性筛法、[厄拉多塞筛法](https://leetcode-cn.com/problems/count-primes/solution/ji-shu-zhi-shu-bao-li-fa-ji-you-hua-shai-fa-ji-you/) [思路](https://www.cnblogs.com/lfri/p/11679306.html) |
 | 206 | 反转链表 |
 | 231 | 2的幂 | 递归、[位运算](https://leetcode-cn.com/problems/power-of-two/solution/power-of-two-er-jin-zhi-ji-jian-by-jyd/) |
+| 234* | 回文链表 | [快慢指针](https://leetcode-cn.com/problems/palindrome-linked-list/solution/hui-wen-lian-biao-by-leetcode-solution/) |
 | 237 | 删除链表中的节点 | [两两交换](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/) |
 | 326 | 3的幂 | 递归、迭代、[对数运算](https://leetcode-cn.com/problems/power-of-three/solution/3de-mi-by-leetcode/)、[正则匹配](https://leetcode-cn.com/problems/power-of-three/solution/nde-mi-xi-lie-4chong-fang-fa-by-realzzg-2-2/) |
 | 342 | 4的幂 | 递归、迭代、对数运算、[位运算、数学方法](https://leetcode-cn.com/problems/power-of-four/solution/4de-mi-by-leetcode/) |
