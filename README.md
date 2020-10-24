@@ -18,6 +18,7 @@
 | 121* | 买卖股票的最佳时机 | 动态规划法 |
 | 125 | 验证回文串 |
 | 136* | 只出现一次的数字 | [异或运算法](https://leetcode-cn.com/problems/single-number/solution/zhi-chu-xian-yi-ci-de-shu-zi-by-leetcode-solution/) |
+| 160* | 相交链表 | [双指针法](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/tu-jie-xiang-jiao-lian-biao-by-user7208t/) |
 | 167* | 两数之和II |
 | 169 | 多数元素 | 哈希表、[分治法](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/) |
 | 198* | 打家劫舍 | [动态规划](https://leetcode-cn.com/problems/house-robber/solution/da-jia-jie-she-by-leetcode-solution/) |
